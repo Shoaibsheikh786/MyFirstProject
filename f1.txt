@@ -1,1 +1,1 @@
-this is feature 1
+this is i made changes in master i will commit it 
